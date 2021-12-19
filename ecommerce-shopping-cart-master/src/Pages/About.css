@@ -1,0 +1,21 @@
+.about{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(Images/food-2068217_640.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 0 40px 0;
+}
+
+.about h1{
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.about p{
+    width: 80%;
+    margin: auto;
+    color: white;
+}
